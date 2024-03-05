@@ -1,12 +1,14 @@
-Setup:
-git clone https://github.com/mihahorvat5/bilumina-test
-git pull
+# Setup:
+<p>git clone https://github.com/mihahorvat5/bilumina-test</p>
+<p>git pull</p>
 
-composer install
-CREATE .env FILE!
-php artisan key:generate
-php artisan migrate
-npm install
-npm run dev + php artisan serve
+# Install dependencies:
+<p>composer install</p>
+<p>CREATE .env FILE!</p>
+<p>php artisan key:generate</p>
+<p>php artisan migrate</p>
+<p>npm install</p>
 
-To access the website you have to register! (use wampserver or smth like this)
+# To run application:
+<p>npm run dev + php artisan serve</p>
+<p>To access the website you have to register! (use wampserver or smth like this)</p>
