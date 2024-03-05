@@ -1,5 +1,5 @@
 .add-btn, .remove-btn {
-    background-color: #D0BFFF; /* Green */
+    background-color: #D0BFFF;
     border: none;
     color: white;
     padding: 5px 8px;
@@ -13,8 +13,9 @@
 }
 
 .add-btn:hover, .remove-btn:hover {
-    background-color: #D6DBF9; /* Darker Green */
+    background-color: #D6DBF9;
 }
+
 
 
 .basket-item {
@@ -35,12 +36,11 @@
 
 
 
-
 .discounted {
-    color: gray; /* Gray color for normal price */
-    text-decoration: line-through; /* Cross out the normal price */
+    color: gray;
+    text-decoration: line-through;
 }
 
 .discounted-price {
-    color: red; /* Red color for discounted price */
+    color: red;
 }

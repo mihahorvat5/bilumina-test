@@ -2,15 +2,14 @@
 
 @section('content')
 
-
 @if (Auth::check())
+
 
 <link href="{{ asset('css/home.css') }}" rel="stylesheet">
 <script src="{{ asset('js/items.js') }}"></script>
 
+
 <div class="container-fluid h-100" style="text-align:center; justify-content: center; padding-bottom:5vh; padding-top:5vh;">
-
-
 
 </div>
 
@@ -21,9 +20,9 @@
     <div class="row justify-content-center">
         <div class="col-md-8" style="width:100%">
             <div class="card">
-                <div class="card-header">Not Logged In!</div>
+                <div class="card-header">Niste Prijavljeni!</div>
                 <div class="card-body">
-                    <p>Please login to access our website.</p>
+                    <p>Za dostop do vsebine se prosim prijavite.</p>
                 </div>   
             </div>
         </div>
@@ -32,5 +31,4 @@
 
 
 @endif
-
 @endsection

@@ -26,18 +26,7 @@ class DataController extends Controller
         if (isset($data['items'])) {
             return response()->json($data['items']);
         } else {
-            return response()->json([], 404); // Return empty array with 404 status if 'items' key is not found
+            return response()->json([], 404);
         }
     }
-
-
-
-
-    
-
-
-
-
-
 }
-

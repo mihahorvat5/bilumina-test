@@ -1,4 +1,3 @@
-
 <div id="app">
     <nav class="navbar navbar-expand-md navbar-light shadow-sm" style="background-color: #D0BFFF;">
         <div class="col-md-6" style="text-align:left; padding-left:5vw;">
@@ -9,6 +8,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
         </div>
+
 
         <div class="col-md-6" style="text-align:right; padding-right:5vw;">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -25,12 +25,12 @@
                     @guest
                         @if (Route::has('login'))
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                <a class="nav-link" href="{{ route('login') }}">{{ __('Prijava') }}</a>
                             </li>
                         @endif
                         @if (Route::has('register'))
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+                                <a class="nav-link" href="{{ route('register') }}">{{ __('Registracija') }}</a>
                             </li>
                         @endif
                     @else
@@ -42,7 +42,7 @@
                                 <a class="dropdown-item" href="{{ route('logout') }}"
                                     onclick="event.preventDefault();
                                     document.getElementById('logout-form').submit();">
-                                    {{ __('Logout') }}
+                                    {{ __('Odjava') }}
                                 </a>
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                                     @csrf
@@ -57,19 +57,17 @@
 </div>
 
 
-
-
 <style>
     #basketPopup {
         position: fixed;
         top: 0;
         right: 0;
-        z-index: 1000; /* Ensure it's above other content */
+        z-index: 1000;
         background-color: white;
-        border: 2px solid #AACBF7; /* Light blue border */
-        border-radius: 8px; /* Rounded corners */
-        padding: 10px; /* Add some padding */
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a shadow */
+        border: 2px solid #AACBF7;
+        border-radius: 8px; /* oglati robovi */
+        padding: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* shadow */
         margin-top: 10vh;
         margin-right:5vw;
     }
@@ -79,12 +77,13 @@
     }
 </style>
 
+
 <div id="app">
-    <!-- Your existing HTML code for the navigation bar -->
+
 </div>
 
+
 <div id="basketPopup" class="popup" style="display: none;">
-    <!-- Popup content -->
     <div class="popup-content" id="basketContent">
         <p>Test</p>
         <button>Test Button</button>
