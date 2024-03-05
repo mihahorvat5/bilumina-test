@@ -1,0 +1,46 @@
+.add-btn, .remove-btn {
+    background-color: #D0BFFF; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 6px;
+    margin: 0px 0px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.add-btn:hover, .remove-btn:hover {
+    background-color: #D6DBF9; /* Darker Green */
+}
+
+
+.basket-item {
+    display: flex;
+    align-items: center;
+}
+
+.item-info {
+    flex-grow: 1;
+    padding: 0 10px;
+}
+
+.item-actions {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+
+.discounted {
+    color: gray; /* Gray color for normal price */
+    text-decoration: line-through; /* Cross out the normal price */
+}
+
+.discounted-price {
+    color: red; /* Red color for discounted price */
+}

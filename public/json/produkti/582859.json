@@ -1,0 +1,238 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 582859,
+        "code": "975152",
+        "nameSmall": "Transformers Battle Call Offices class figura sort",
+        "nameLarge": "Transformers Battle Call Offices class figura sort",
+        "descriptionSmall": "&ltul&gt&ltli&gtFigura Transformers,&lt\/li&gt&ltli&gtvelikost figure je 25,4 cm,&lt\/li&gt&ltli&gtprilo\u017eeni 3 dodatki in navodila,&lt\/li&gt&ltli&gtna voljo v razli\u010dnih barvah,&lt\/li&gt&ltli&gtizbrano barvo zapi\u0161ite v opombe naro\u010dila,&lt\/li&gt&ltli&gtza 6+ let,&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 3 let.&lt\/li&gt&lt\/ul&gt",
+        "descriptionLarge": "Bitka med Avtoboti in hudobnimi Decepticoni se nadaljuje v animirani seriji Cyberverse. Odkrij edinstvene mo\u010di in ve\u0161\u010dine vsakega lika iz serije Cyberverse ter kako bodo te mo\u010di uporabljene, da re\u0161ijo Cyberton ... ali ga ogrozijo.&ltbr&gt&ltbr&gtEnostavno spremeni robota v vozilo ali nazaj v robota.&ltbr&gt&ltbr&gtSet vklju\u010duje figuro, 3 dodatke in navodila.&ltbr&gt&ltbr&gtVelikost figure je 25,4 cm. Na voljo v razli\u010dnih barvah. Izbrano barvo zapi\u0161ite v opombe naro\u010dila.&ltbr&gt&ltbr&gt&lta href=\"\/public\/bcweb\/bc_igrace.pdf\"target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4305",
+        "brandCode": "Transformers",
+        "brandNamesmall": "Transformers",
+        "partnerModel": null,
+        "partnerModelName": null,
+        "model": null,
+        "subModel": null,
+        "price": 69.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2021-11-10",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "transformers-battle-call-offices-class-figura-sort-975152",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 72,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": null,
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 548445,
+                    "imagUrl": "\/4\/4\/5\/transformers-akcijske-figure-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 1
+                },
+                {
+                    "imagId": 551124,
+                    "imagUrl": "\/1\/2\/4\/transformers-akcijske-figure-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 2
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 526004
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 228600
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 690741
+            },
+            {
+                "id": 213371
+            },
+            {
+                "id": 211592
+            },
+            {
+                "id": 472989
+            },
+            {
+                "id": 667895
+            },
+            {
+                "id": 472991
+            },
+            {
+                "id": 631657
+            },
+            {
+                "id": 213371
+            },
+            {
+                "id": 631657
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 657621
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 165342
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 296520
+            },
+            {
+                "id": 399102
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 582190
+            },
+            {
+                "id": 270982
+            }
+        ]
+    }
+}

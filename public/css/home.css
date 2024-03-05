@@ -1,0 +1,26 @@
+/*
+#img1 {
+    transition: transform 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+}
+
+#img1:hover {
+    transform: scale(1.2) translateY(3vh);
+    border: 1px solid rgba(133, 190, 255, 0.9);
+    box-shadow: 0 0 10px rgba(133, 190, 255, 0.7);
+    content: url('images/test2.png');
+}
+*/
+.sku {
+    font-style: italic;
+    font-size: 10px;
+    color: gray;
+    padding-bottom: 0vh;
+}
+.name {
+    font-size: 14px;
+}
+.price {
+    font-weight: bold;
+    font-size: 14px;
+}
+

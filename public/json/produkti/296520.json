@@ -1,0 +1,299 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 296520,
+        "code": "604692",
+        "nameSmall": "Transformer deformed truck",
+        "nameLarge": "Unika Transformer deformed truck",
+        "descriptionSmall": "&ltul&gt&ltli&gtTransformer Deformed Truck,&lt\/li&gt&ltli&gtrobot ali tovornjak,&lt\/li&gt&ltli&gtutripajo\u010de lu\u010di in zvok,&lt\/li&gt&ltli&gttrije razli\u010dni stili,&lt\/li&gt&ltli&gtza delovanje potrebuje 3 x LR41,&lt\/li&gt&ltli&gtbaterije prilo\u017eene v demonstracijske namene,&lt\/li&gt&ltli&gtvi\u0161ina robora: 11 cm.&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 3 let.&lt\/li&gt&lt\/ul&gt",
+        "descriptionLarge": "Robot, ki se spremeni v kamion, ima zvok in utripajo\u010de lu\u010di. Izbira\u0161 lahko med 3 razli\u010dnimi stili. Robot je visok cca. 11 cm. Za delovanje potrebuje 3 baterije tipa \"LR41\" 1.5V - prilo\u017eene v demonstracijske namene.&ltbr&gt&ltbr&gt&lta href=\"\/public\/bcweb\/bc_igrace.pdf\"target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4670",
+        "brandCode": "Unika",
+        "brandNamesmall": "Unika",
+        "partnerModel": null,
+        "partnerModelName": null,
+        "model": null,
+        "subModel": null,
+        "price": 8.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2020-11-20",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "unika-transformer-deformed-truck-604692",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": null,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": null,
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 202137,
+                    "imagUrl": "\/1\/3\/7\/unika-roboti-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 0
+                },
+                {
+                    "imagId": 202138,
+                    "imagUrl": "\/1\/3\/8\/unika-roboti-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 0
+                },
+                {
+                    "imagId": 202139,
+                    "imagUrl": "\/1\/3\/9\/unika-roboti-3.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 3,
+                    "order": 0
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 10788
+            },
+            {
+                "id": 2011
+            },
+            {
+                "id": 40256
+            },
+            {
+                "id": 2026
+            },
+            {
+                "id": 37351
+            },
+            {
+                "id": 20975
+            },
+            {
+                "id": 5921
+            },
+            {
+                "id": 104524
+            },
+            {
+                "id": 2978
+            },
+            {
+                "id": 18434
+            },
+            {
+                "id": 322301
+            },
+            {
+                "id": 24024
+            },
+            {
+                "id": 29157
+            },
+            {
+                "id": 480433
+            },
+            {
+                "id": 119190
+            },
+            {
+                "id": 165318
+            },
+            {
+                "id": 6884
+            },
+            {
+                "id": 2982
+            },
+            {
+                "id": 70
+            },
+            {
+                "id": 98291
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 526045
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 582859
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 657621
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 582859
+            },
+            {
+                "id": 582860
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 399097
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 481513
+            }
+        ]
+    }
+}

@@ -1,0 +1,425 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 439969,
+        "code": "816144",
+        "nameSmall": "Transformers figure 5 kos",
+        "nameLarge": "Transformers figure 5 kos",
+        "descriptionSmall": "&ltul&gt&ltli&gtTransformers Botobots figure 5 KOS,&lt\/li&gt&ltli&gtartikel je v ve\u010dih barvah, \u017eeljeno barvo sporo\u010dite v opombe naro\u010dila,&lt\/li&gt&ltli&gtprimerno za otroke nad 5 leti,&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 5 let. Vsebuje majhne dele. Nevarnost zadu\u0161itve.&lt\/li&gt&ltul&gt",
+        "descriptionLarge": "Zbirateljske BotBot figurice so velike pribli\u017eno 2,5 cm in se v le 3 do 5 enostavnih korakov spremeniju iz povsem obi\u010dajnih predmetov, ki jih lahko najdemo v trgovini, spremenijo v male, nagajive Transformerje z gibljivimi deli za zabavne zgodbe in pustolov\u0161\u010dine. V vsakem paketku se skriva 5 BotBot figuric. V vsakem paketku se skrivata 2 figurici iz tematske ekipe pakiranja, 1 figurico izgubljenih botov in 2 figurici iz ostalih ekip! &ltbr&gt&ltbr&gt&lta href=\"\/public\/bcweb\/bc_igrace.pdf\"target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4305",
+        "brandCode": "Transformers",
+        "brandNamesmall": "Transformers",
+        "partnerModel": "E3486EU4-0117002001-HASBRO TRANSFORMERS",
+        "partnerModelName": "E3486EU4-0117002001-HASBRO TRANSFORMERS",
+        "model": "Transformers E3486EU4 figure 5 kos",
+        "subModel": "Transformers E3486EU4",
+        "price": 12.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2020-11-20",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "transformers-figure-5-kos-816144",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 60,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": "E3486EU4",
+        "colorPartner": "VE\u010cBARVNO",
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 353295,
+                    "imagUrl": "\/2\/9\/5\/e3486eu4-vecbarvno-transformers-junaki-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 0
+                },
+                {
+                    "imagId": 353302,
+                    "imagUrl": "\/3\/0\/2\/e3486eu4-vecbarvno-transformers-junaki-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 0
+                },
+                {
+                    "imagId": 353303,
+                    "imagUrl": "\/3\/0\/3\/e3486eu4-vecbarvno-transformers-junaki-3.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 3,
+                    "order": 0
+                },
+                {
+                    "imagId": 353304,
+                    "imagUrl": "\/3\/0\/4\/e3486eu4-vecbarvno-transformers-junaki-4.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 4,
+                    "order": 0
+                },
+                {
+                    "imagId": 353305,
+                    "imagUrl": "\/3\/0\/5\/e3486eu4-vecbarvno-transformers-junaki-5.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 5,
+                    "order": 0
+                },
+                {
+                    "imagId": 353306,
+                    "imagUrl": "\/3\/0\/6\/e3486eu4-vecbarvno-transformers-junaki-6.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 6,
+                    "order": 0
+                },
+                {
+                    "imagId": 353307,
+                    "imagUrl": "\/3\/0\/7\/e3486eu4-vecbarvno-transformers-junaki-7.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 7,
+                    "order": 0
+                },
+                {
+                    "imagId": 353308,
+                    "imagUrl": "\/3\/0\/8\/e3486eu4-vecbarvno-transformers-junaki-8.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 8,
+                    "order": 0
+                },
+                {
+                    "imagId": 353309,
+                    "imagUrl": "\/3\/0\/9\/e3486eu4-vecbarvno-transformers-junaki-9.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 9,
+                    "order": 0
+                },
+                {
+                    "imagId": 353296,
+                    "imagUrl": "\/2\/9\/6\/e3486eu4-vecbarvno-transformers-junaki-11.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 11,
+                    "order": 0
+                },
+                {
+                    "imagId": 353297,
+                    "imagUrl": "\/2\/9\/7\/e3486eu4-vecbarvno-transformers-junaki-12.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 12,
+                    "order": 0
+                },
+                {
+                    "imagId": 353298,
+                    "imagUrl": "\/2\/9\/8\/e3486eu4-vecbarvno-transformers-junaki-13.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 13,
+                    "order": 0
+                },
+                {
+                    "imagId": 353299,
+                    "imagUrl": "\/2\/9\/9\/e3486eu4-vecbarvno-transformers-junaki-14.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 14,
+                    "order": 0
+                },
+                {
+                    "imagId": 353300,
+                    "imagUrl": "\/3\/0\/0\/e3486eu4-vecbarvno-transformers-junaki-15.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 15,
+                    "order": 0
+                },
+                {
+                    "imagId": 353301,
+                    "imagUrl": "\/3\/0\/1\/e3486eu4-vecbarvno-transformers-junaki-16.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 16,
+                    "order": 0
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            },
+            {
+                "groupId": 15218,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [
+            {
+                "id": 439969,
+                "code": "816144",
+                "nameSmall": "Transformers figure 5 kos",
+                "nameLarge": "Transformers figure 5 kos",
+                "typeCode": "01",
+                "colorId": null,
+                "colorRGB": null,
+                "colorNamesmall": null,
+                "colorTypeCode": null,
+                "colorOrder": 1,
+                "sizeId": null,
+                "sizeCode": null,
+                "sizeNamesmall": null,
+                "sizeTypeCode": null,
+                "sizeOrder": 1,
+                "genderId": null,
+                "genderCode": null,
+                "genderNamesmall": null,
+                "genderOrder": 1,
+                "partnerColor": "VE\u010cBARVNO",
+                "partnerSize": null,
+                "stock": 8,
+                "unitPhysicalCode": null,
+                "unitPhysicalFactor": null,
+                "price": 12.99,
+                "discountPrice": null,
+                "discountPercent": 0,
+                "discountValue": null,
+                "url": "transformers-figure-5-kos-816144",
+                "images": [
+                    {
+                        "imagId": 353295,
+                        "imagUrl": "\/2\/9\/5\/e3486eu4-vecbarvno-transformers-junaki-1.jpg"
+                    }
+                ]
+            }
+        ],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 439948
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 211592
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 472991
+            },
+            {
+                "id": 690741
+            },
+            {
+                "id": 228600
+            },
+            {
+                "id": 667895
+            },
+            {
+                "id": 213371
+            },
+            {
+                "id": 472989
+            },
+            {
+                "id": 213371
+            },
+            {
+                "id": 631657
+            },
+            {
+                "id": 666126
+            },
+            {
+                "id": 631657
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 657621
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 582859
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 526049
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 582190
+            },
+            {
+                "id": 270982
+            },
+            {
+                "id": 582859
+            },
+            {
+                "id": 582860
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 399097
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 439948
+            }
+        ]
+    }
+}

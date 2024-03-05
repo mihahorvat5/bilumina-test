@@ -1,0 +1,311 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 399097,
+        "code": "774816",
+        "nameSmall": "Speed Launcher",
+        "nameLarge": "Screechers Wild Speed Launcher",
+        "descriptionSmall": "Pred \u010dasom je na Zemljo padla starodavna mo\u010d v obliki diskov. Da bi diske na\u0161li, so jim na Zemljo sledili mehanski bojevniki, ki so se prelevili v male avtomobile. In ko ti avtomobili ujamejo disk mo\u010di, se spremenijo v besne Screecherje.",
+        "descriptionLarge": "Pred \u010dasom je na Zemljo padla starodavna mo\u010d v obliki diskov. Da bi diske na\u0161li, so jim na Zemljo sledili mehanski bojevniki, ki so se prelevili v male avtomobile. In ko ti avtomobili ujamejo disk mo\u010di, se spremenijo v besne Screecherje.&ltbr&gt&ltbr&gt&ltb&gtOglejte si video predstavitev izdelka:&lt\/b&gt&ltbr&gt&ltbr&gt&ltiframe width=\"853\" height=\"480\" src=\"https:\/\/www.youtube.com\/embed\/Ox_OhoF6vbw?list=PL-4k_Q7jGmWha6mVn6xUL3T2wF_7G2B1h\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"&gt&lt\/iframe&gt&ltbr&gt&ltbr&gt&lta href=\"\/public\/bc_igrace.pdf\" target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "31278",
+        "brandCode": "Screechers Wild",
+        "brandNamesmall": "Screechers Wild",
+        "partnerModel": null,
+        "partnerModelName": null,
+        "model": null,
+        "subModel": null,
+        "price": 29.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2020-11-20",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "screechers-wild-speed-launcher-774816",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 72,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": null,
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 240340,
+                    "imagUrl": "\/3\/4\/0\/screechers-wild-junaki-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 0
+                },
+                {
+                    "imagId": 240341,
+                    "imagUrl": "\/3\/4\/1\/screechers-wild-junaki-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 0
+                },
+                {
+                    "imagId": 240342,
+                    "imagUrl": "\/3\/4\/2\/screechers-wild-junaki-3.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 3,
+                    "order": 0
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8810,
+                "groupNamesmall": "Ostale trend igra\u010de"
+            },
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            },
+            {
+                "groupId": 33349,
+                "groupNamesmall": "Screechers"
+            },
+            {
+                "groupId": 47607,
+                "groupNamesmall": "Igra\u010de"
+            }
+        ],
+        "genders": [],
+        "items": [],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 427850
+            },
+            {
+                "id": 480219
+            },
+            {
+                "id": 476420
+            },
+            {
+                "id": 312094
+            },
+            {
+                "id": 483899
+            },
+            {
+                "id": 321851
+            },
+            {
+                "id": 582158
+            },
+            {
+                "id": 695464
+            },
+            {
+                "id": 83097
+            },
+            {
+                "id": 537071
+            },
+            {
+                "id": 487455
+            },
+            {
+                "id": 578501
+            },
+            {
+                "id": 194
+            },
+            {
+                "id": 383000
+            },
+            {
+                "id": 141613
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 525898
+            },
+            {
+                "id": 657611
+            },
+            {
+                "id": 480218
+            },
+            {
+                "id": 525900
+            },
+            {
+                "id": 692823
+            },
+            {
+                "id": 668355
+            },
+            {
+                "id": 668144
+            },
+            {
+                "id": 480219
+            },
+            {
+                "id": 526032
+            },
+            {
+                "id": 692822
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 657622
+            },
+            {
+                "id": 572341
+            },
+            {
+                "id": 668353
+            },
+            {
+                "id": 538321
+            },
+            {
+                "id": 639644
+            },
+            {
+                "id": 622664
+            },
+            {
+                "id": 692820
+            },
+            {
+                "id": 690639
+            },
+            {
+                "id": 607743
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 657621
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 296520
+            },
+            {
+                "id": 323622
+            },
+            {
+                "id": 165342
+            },
+            {
+                "id": 488834
+            }
+        ]
+    }
+}

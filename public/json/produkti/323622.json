@@ -1,0 +1,299 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 323622,
+        "code": "658785",
+        "nameSmall": "transformer Ares King Kong moder 33cm",
+        "nameLarge": "Unika transformer Ares King Kong moder 33cm",
+        "descriptionSmall": "&ltul&gt&ltli&gtTransformer Ares King Kong,&lt\/li&gt&ltli&gtmodre barve,&lt\/li&gt&ltli&gtvelikost 33 cm,&lt\/li&gt&ltli&gtrobot, ki se spremeni v avto in obratno,&lt\/li&gt&ltli&gtza starost 5 let +,&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 3 let.&lt\/li&gt&lt\/ul&gt",
+        "descriptionLarge": "Robot zelene barve velikosti 30 cm, ki se spremeni v avto. Pomagajte si s prilo\u017eenimi navodili, ko spreminjate robota v vozilo ali obratno. Primerno za starost 5 let +.&ltbr&gt&ltbr&gt&lta href=\"\/public\/bc_igrace.pdf\"target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4670",
+        "brandCode": "Unika",
+        "brandNamesmall": "Unika",
+        "partnerModel": null,
+        "partnerModelName": null,
+        "model": null,
+        "subModel": null,
+        "price": 39.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2020-11-20",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "unika-transformer-ares-king-kong-moder-33cm-658785",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 60,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": null,
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 203449,
+                    "imagUrl": "\/4\/4\/9\/unika-roboti-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 0
+                },
+                {
+                    "imagId": 203450,
+                    "imagUrl": "\/4\/5\/0\/unika-roboti-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 0
+                },
+                {
+                    "imagId": 203451,
+                    "imagUrl": "\/4\/5\/1\/unika-roboti-3.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 3,
+                    "order": 0
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 165314
+            },
+            {
+                "id": 367491
+            },
+            {
+                "id": 177248
+            },
+            {
+                "id": 322298
+            },
+            {
+                "id": 2022
+            },
+            {
+                "id": 37609
+            },
+            {
+                "id": 40256
+            },
+            {
+                "id": 356684
+            },
+            {
+                "id": 6884
+            },
+            {
+                "id": 2978
+            },
+            {
+                "id": 34777
+            },
+            {
+                "id": 165304
+            },
+            {
+                "id": 62707
+            },
+            {
+                "id": 70
+            },
+            {
+                "id": 6890
+            },
+            {
+                "id": 141643
+            },
+            {
+                "id": 383012
+            },
+            {
+                "id": 10791
+            },
+            {
+                "id": 9809
+            },
+            {
+                "id": 262384
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 526045
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 582859
+            },
+            {
+                "id": 270982
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 165342
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 296520
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 582860
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 399097
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 296520
+            }
+        ]
+    }
+}

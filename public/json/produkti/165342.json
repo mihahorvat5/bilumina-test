@@ -1,0 +1,369 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 165342,
+        "code": "442152",
+        "nameSmall": "transformer Bruticus",
+        "nameLarge": "Unika transformer Bruticus",
+        "descriptionSmall": "&ltul&gt&ltli&gt5 razli\u010dnih modelov,&lt\/li&gt&ltli&gtiz robota se spremeni v avto,&lt\/li&gt&ltli&gtza starost 3 leta +,&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 3 let.&lt\/li&gt&lt\/ul&gt",
+        "descriptionLarge": "5 razli\u010dnih stilov, razli\u010dnih barv robota \"Bruticus\", ki se spremeni v vozilo. Pomagajte si s sli\u010dicami na embala\u017ei, ko spreminjate robota v vozilo ali obratno. \u017delen model robota zapi\u0161ite v opombe naro\u010dila. &ltbr&gt&ltbr&gt&lta href=\"\/public\/bc_igrace. Pdf\" target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4670",
+        "brandCode": "Unika",
+        "brandNamesmall": "Unika",
+        "partnerModel": "442152-0117001002-UNIKA",
+        "partnerModelName": "442152-0117001002-UNIKA",
+        "model": "Unika 442152 transformer Bruticus",
+        "subModel": "442152",
+        "price": 8.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2020-11-20",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "unika-transformer-bruticus-442152",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 36,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": "442152",
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 160370,
+                    "imagUrl": "\/3\/7\/0\/unika-roboti-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 0
+                },
+                {
+                    "imagId": 160371,
+                    "imagUrl": "\/3\/7\/1\/unika-roboti-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 0
+                },
+                {
+                    "imagId": 160372,
+                    "imagUrl": "\/3\/7\/2\/unika-roboti-3.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 3,
+                    "order": 0
+                },
+                {
+                    "imagId": 160373,
+                    "imagUrl": "\/3\/7\/3\/unika-roboti-4.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 4,
+                    "order": 0
+                },
+                {
+                    "imagId": 160374,
+                    "imagUrl": "\/3\/7\/4\/unika-roboti-5.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 5,
+                    "order": 0
+                },
+                {
+                    "imagId": 161164,
+                    "imagUrl": "\/1\/6\/4\/unika-roboti-6.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 6,
+                    "order": 0
+                },
+                {
+                    "imagId": 161165,
+                    "imagUrl": "\/1\/6\/5\/unika-roboti-7.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 7,
+                    "order": 0
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8810,
+                "groupNamesmall": "Ostale trend igra\u010de"
+            },
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [
+            {
+                "id": 165342,
+                "code": "442152",
+                "nameSmall": "transformer Bruticus",
+                "nameLarge": "Unika transformer Bruticus",
+                "typeCode": "01",
+                "colorId": null,
+                "colorRGB": null,
+                "colorNamesmall": null,
+                "colorTypeCode": null,
+                "colorOrder": 1,
+                "sizeId": null,
+                "sizeCode": null,
+                "sizeNamesmall": null,
+                "sizeTypeCode": null,
+                "sizeOrder": 1,
+                "genderId": null,
+                "genderCode": null,
+                "genderNamesmall": null,
+                "genderOrder": 1,
+                "partnerColor": null,
+                "partnerSize": null,
+                "stock": 9,
+                "unitPhysicalCode": null,
+                "unitPhysicalFactor": null,
+                "price": 8.99,
+                "discountPrice": null,
+                "discountPercent": 0,
+                "discountValue": null,
+                "url": "unika-transformer-bruticus-442152",
+                "images": [
+                    {
+                        "imagId": 160370,
+                        "imagUrl": "\/3\/7\/0\/unika-roboti-1.jpg"
+                    }
+                ]
+            }
+        ],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 165318
+            },
+            {
+                "id": 2983
+            },
+            {
+                "id": 34777
+            },
+            {
+                "id": 18434
+            },
+            {
+                "id": 2982
+            },
+            {
+                "id": 670905
+            },
+            {
+                "id": 37351
+            },
+            {
+                "id": 37609
+            },
+            {
+                "id": 323613
+            },
+            {
+                "id": 322298
+            },
+            {
+                "id": 6888
+            },
+            {
+                "id": 12737
+            },
+            {
+                "id": 20975
+            },
+            {
+                "id": 271390
+            },
+            {
+                "id": 8839
+            },
+            {
+                "id": 70
+            },
+            {
+                "id": 104525
+            },
+            {
+                "id": 383012
+            },
+            {
+                "id": 23752
+            },
+            {
+                "id": 351577
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 356684
+            },
+            {
+                "id": 471217
+            },
+            {
+                "id": 487510
+            },
+            {
+                "id": 441318
+            },
+            {
+                "id": 576332
+            },
+            {
+                "id": 639644
+            },
+            {
+                "id": 538321
+            },
+            {
+                "id": 545617
+            },
+            {
+                "id": 692818
+            },
+            {
+                "id": 670899
+            },
+            {
+                "id": 692830
+            },
+            {
+                "id": 427850
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 427852
+            },
+            {
+                "id": 526257
+            },
+            {
+                "id": 720359
+            },
+            {
+                "id": 692817
+            },
+            {
+                "id": 447716
+            },
+            {
+                "id": 427848
+            },
+            {
+                "id": 524582
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 657621
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 296520
+            },
+            {
+                "id": 323622
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 399097
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 399093
+            }
+        ]
+    }
+}

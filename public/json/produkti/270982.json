@@ -1,0 +1,235 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 270982,
+        "code": "565008",
+        "nameSmall": "transformer Interchange 40cm",
+        "nameLarge": "Unika transformer Interchange 40cm",
+        "descriptionSmall": "&ltul&gt&ltli&gtTransformer Interchange,&lt\/li&gt&ltli&gtdeluje na baterije,&lt\/li&gt&ltli&gtoddaja svetlobne signale,&lt\/li&gt&ltil&gtoddaja zvok,&lt\/li&gt&ltli&gtza starost od  3 let dalje,&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 3 let.&lt\/li&gt&lt\/ul&gt",
+        "descriptionLarge": "Robot velikosti 40 cm rumene barve, ki se z nekaj koraki spremeni v avto ali obratno.  Robot-avto ima zvok in utripajo\u010de lu\u010di. m. &ltbr&gtZa delovanje potrebuje  3 baterije tipa \"LR44\/AG13\" 1.5 V, ki so prilo\u017eene v demonstracijske namene. &ltbr&gt&ltbr&gt&lta href=\"\/public\/bc_igrace.pdf\"target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4670",
+        "brandCode": "Unika",
+        "brandNamesmall": "Unika",
+        "partnerModel": null,
+        "partnerModelName": null,
+        "model": null,
+        "subModel": null,
+        "price": 58.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 10,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2021-12-22",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "unika-transformer-interchange-40cm-565008",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 60,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": null,
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 558037,
+                    "imagUrl": "\/0\/3\/7\/unika-trend-igrace-decki-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 1
+                },
+                {
+                    "imagId": 558038,
+                    "imagUrl": "\/0\/3\/8\/unika-trend-igrace-decki-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 2
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 20975
+            },
+            {
+                "id": 165342
+            },
+            {
+                "id": 2011
+            },
+            {
+                "id": 367491
+            },
+            {
+                "id": 9809
+            },
+            {
+                "id": 8839
+            },
+            {
+                "id": 74510
+            },
+            {
+                "id": 119190
+            },
+            {
+                "id": 104525
+            },
+            {
+                "id": 70
+            },
+            {
+                "id": 104532
+            },
+            {
+                "id": 71
+            },
+            {
+                "id": 23752
+            },
+            {
+                "id": 47828
+            },
+            {
+                "id": 2978
+            },
+            {
+                "id": 10788
+            },
+            {
+                "id": 2983
+            },
+            {
+                "id": 165304
+            },
+            {
+                "id": 18434
+            },
+            {
+                "id": 13713
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 582859
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 165342
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 526047
+            },
+            {
+                "id": 399093
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 582190
+            }
+        ]
+    }
+}

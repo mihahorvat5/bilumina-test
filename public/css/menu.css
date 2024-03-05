@@ -1,0 +1,13 @@
+
+.transparent-bg {
+    background-color: transparent !important;
+}
+/* Add border and box-shadow when mouse hovers over the image */
+.highlight-on-hover {
+    transition: box-shadow 0.3s ease, border-color 0.3s ease;
+    border-radius: 8px; /* Add rounded corners */
+}
+.highlight-on-hover:hover {
+    border: 2px solid #BB2FF5; /* Adjust the color and size of the border as needed */
+    box-shadow: 0 0 20px rgba(187, 47, 245, 1); /* Add a shadow effect */
+}

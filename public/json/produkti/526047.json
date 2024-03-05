@@ -1,0 +1,298 @@
+{
+    "success": true,
+    "errorLog": "",
+    "errorUser": "",
+    "data": {
+        "id": 526047,
+        "code": "916126",
+        "nameSmall": "Transformers Cyberverse Ultra figura",
+        "nameLarge": "Transformers Cyberverse Ultra figura",
+        "descriptionSmall": "&ltul&gt&ltli&gtIz robota v vozilo,&lt\/li&gt&ltli&gtizjemna preobrazba,&lt\/li&gt&ltli&gtv le nekaj korakih,&lt\/li&gt&ltli&gtprimerno za starost 6+ let,&lt\/li&gt&ltli&gtrazli\u010dne figure,&lt\/li&gt&ltli&gtizbrano zapi\u0161ite v opombe naro\u010dila&lt\/li&gt&ltli&gtOPOZORILO: Ni primerno za otroke mlaj\u0161e od 3 let.&lt\/li&gt&lt\/ul&gt",
+        "descriptionLarge": "Spremeni in pripravi robota na boj v samo eni izjemni potezi! Vsaka Cyberverse Ultra figura se spremeni v le nekaj hitrih korakih iz robota v vozilo in nazaj v robota. Sprememba v vozilo vklju\u010duje junakovo zna\u010dilno bojno kretnjo. Napad se aktivira v na\u010dinu vozila. Pakirano v na\u010dinu robota. Primerno za otroke od 6. leta starosti dalje.&ltbr&gt&ltbr&gtOPOZORILO! Ni primerno za otroke mlaj\u0161e od 3 let. Vsebuje majhne dele. Nevarnost zadu\u0161itve. &ltbr&gt&ltbr&gt&lta href=\"\/public\/bcweb\/bc_igrace.pdf\"target=\"_blank\"&gtOpozorila in varnostni ukrepi ob uporabi nekaterih kategorij igra\u010d.&lt\/a&gt",
+        "typeCode": "01",
+        "brandId": "4305",
+        "brandCode": "Transformers",
+        "brandNamesmall": "Transformers",
+        "partnerModel": null,
+        "partnerModelName": null,
+        "model": null,
+        "subModel": null,
+        "price": 39.99,
+        "priceOld": null,
+        "priceBasic": null,
+        "saveValue": 0,
+        "clubPrice": null,
+        "discountPrice": null,
+        "discountPercent": 0,
+        "discountValue": 0,
+        "bonusPercent": null,
+        "bonusValue": null,
+        "priceNext": null,
+        "priceOldNext": null,
+        "saveValueNext": null,
+        "clubPriceNext": null,
+        "discountPriceNext": null,
+        "discountValueNext": null,
+        "bonusValueNext": null,
+        "currencySymbolNext": null,
+        "loyalty": 0,
+        "netOnly": 0,
+        "videoLink": null,
+        "sizeId": 0,
+        "sizeCode": null,
+        "sizeNamesmall": null,
+        "sizeGroup": null,
+        "sizeGrid": null,
+        "sizeProduct": null,
+        "sizeOrder": 0,
+        "metaTitle": null,
+        "metaKeyword": null,
+        "metaDescription": null,
+        "layoutTypeCode": null,
+        "dateAdded": "2020-11-20",
+        "unitPhysicalCode": null,
+        "unitPhysicalFactor": null,
+        "actionFrom": null,
+        "actionTo": null,
+        "url": "transformers-cyberverse-ultra-figura-916126",
+        "discountMessageId": 0,
+        "discountMessage": null,
+        "discountId": 32264,
+        "discount": "test 10% popust na vse redne cene",
+        "raffleValidFrom": null,
+        "raffleValidTo": null,
+        "ageFrom": 72,
+        "ageTo": null,
+        "stockDelivery": 4,
+        "stockDeliveryTranslation": "2 do 4 delovne dni",
+        "modelPartner": null,
+        "colorPartner": null,
+        "sizePartner": null,
+        "brand2Id": null,
+        "brand2Code": null,
+        "brand2Namesmall": null,
+        "sizeChartUrl": null,
+        "images": {
+            "imageData": [
+                {
+                    "imagId": 368276,
+                    "imagUrl": "\/2\/7\/6\/transformers-junaki-1.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 1,
+                    "order": 0
+                },
+                {
+                    "imagId": 368277,
+                    "imagUrl": "\/2\/7\/7\/transformers-junaki-2.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 2,
+                    "order": 0
+                },
+                {
+                    "imagId": 368278,
+                    "imagUrl": "\/2\/7\/8\/transformers-junaki-3.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 3,
+                    "order": 0
+                },
+                {
+                    "imagId": 368279,
+                    "imagUrl": "\/2\/7\/9\/transformers-junaki-4.jpg",
+                    "imageType": "NET_ITEM_ICON",
+                    "position": 4,
+                    "order": 0
+                }
+            ]
+        },
+        "sizes": [],
+        "colors": [],
+        "groups": [
+            {
+                "groupId": 8957,
+                "groupNamesmall": "Transformer"
+            },
+            {
+                "groupId": 15218,
+                "groupNamesmall": "Transformer"
+            }
+        ],
+        "genders": [],
+        "items": [],
+        "attributes": [],
+        "sameBrandItems": [
+            {
+                "id": 526004
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 472991
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 472989
+            },
+            {
+                "id": 690741
+            },
+            {
+                "id": 213371
+            },
+            {
+                "id": 667895
+            },
+            {
+                "id": 228600
+            },
+            {
+                "id": 211592
+            },
+            {
+                "id": 213371
+            },
+            {
+                "id": 631657
+            },
+            {
+                "id": 666126
+            },
+            {
+                "id": 631657
+            }
+        ],
+        "upSaleItems": [
+            {
+                "id": 657621
+            },
+            {
+                "id": 526045
+            },
+            {
+                "id": 582859
+            },
+            {
+                "id": 270982
+            },
+            {
+                "id": 439951
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 439927
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 481513
+            },
+            {
+                "id": 439969
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 165342
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 439948
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 582190
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 296520
+            }
+        ],
+        "crossSaleItems": [],
+        "history": [
+            {
+                "id": 582190
+            },
+            {
+                "id": 270982
+            },
+            {
+                "id": 582859
+            },
+            {
+                "id": 582860
+            },
+            {
+                "id": 657621
+            },
+            {
+                "id": 488834
+            },
+            {
+                "id": 399097
+            },
+            {
+                "id": 399090
+            },
+            {
+                "id": 399092
+            },
+            {
+                "id": 399109
+            },
+            {
+                "id": 526049
+            },
+            {
+                "id": 526048
+            },
+            {
+                "id": 526004
+            },
+            {
+                "id": 399102
+            },
+            {
+                "id": 399093
+            },
+            {
+                "id": 526045
+            }
+        ]
+    }
+}
