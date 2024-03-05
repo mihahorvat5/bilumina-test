@@ -8,7 +8,7 @@
 <link href="{{ asset('css/buttons.css') }}" rel="stylesheet">
 
 
-<div class="container-fluid h-100" style="text-align:center; justify-content: center; padding-bottom:5vh; padding-top:5vh;">
+<div class="container-fluid h-200" style="text-align:center; justify-content: center; padding-bottom:5vh; padding-top:5vh;">
 
 
 </div>

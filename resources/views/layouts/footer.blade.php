@@ -6,16 +6,12 @@
             <div class="col-4" style="text-align:left;">Marec 2024</div>
             <div class="col-4 text-center" style="text-align:right">Bilumina - delavnica</div>
             <div class="col-4 text-right" style="text-align:right">
-
-
-            <p style="cursor: pointer; margin: 0; padding: 0;" onclick="openModal()">Socials</p>
-
-
-
+                <p style="cursor: pointer; margin: 0; padding: 0;" onclick="openModal()">Socials</p>
             </div>
         </div>
     </div>
 </footer>
+
 
 
 

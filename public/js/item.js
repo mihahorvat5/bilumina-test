@@ -143,18 +143,7 @@ fetch('/get-data')
             const item = allItemData.find(item => item.code === itemCode);
             if (item) {
                 console.log(item);
-                // Once you find the item with the correct code, you can display its data
-                const container = document.querySelector('.container-fluid');
-                container.innerHTML = `
-                    <div class="item-container">
-                        <img src="${item.imageUrl}" alt="${item.nameLarge}" style="width:15vw; height:20vh;">
-                        <img src="${item.secondImageUrl}" alt="${item.nameLarge}" style="width:20vw; height:20vh;">
-                        <p>${item.nameLarge}</p>
-                        <p>Price: ${item.price}</p>
-                        ${item.hasDiscount ? `<p>Discounted Price: ${item.discountedPrice}</p>` : ''}
-                        <button class="button-57" onclick="addItemToBasket('${item.code}', '${item.nameLarge}', '${item.price}', '${item.imageUrl}', ${item.discountPercent}, '${item.discountedPrice}')"><span class="text">Add To Basket</span><span>Click To Confirm</span></button>
-                    </div>
-                `;
+
             } else {
                 console.error('Item with code not found:', itemCode);
             }
@@ -187,39 +176,71 @@ fetch('/get-data')
         return doc.body.textContent || "";
     }
     
-    // Function to fetch item data based on the provided ID
-    function fetchItemDataById(itemId) {
-        fetch(`/get-item/${itemId}`)
-            .then(response => response.json())
-            .then(data2 => {
-                const container = document.querySelector('.container-fluid');
-                container.innerHTML = `
-                    <div class="item-container" style="width: 80vw; margin: 0 auto;">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <img src="https://cdn.babycenter.si/products/705x705${data2.data.images.imageData[0].imagUrl}" alt="${data2.data.nameLarge}" style="width: 70%;">
+// Function to fetch item data based on the provided ID
+function fetchItemDataById(itemId) {
+    fetch(`/get-item/${itemId}`)
+        .then(response => response.json())
+        .then(data2 => {
+            const container = document.querySelector('.container-fluid');
+
+            
+
+            container.innerHTML = `
+            <div class="item-container" style="width: 80vw; margin: 0 auto;">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img src="https://cdn.babycenter.si/products/705x705${data2.data.images.imageData[0].imagUrl}" alt="${data2.data.nameLarge}" style="width: 70%; max-width: 100%;">
+                    </div>
+                    <div class="col-md-6" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                        <h2>${data2.data.nameLarge}</h2>
+                        <p style="font-weight: bold;">Price: <span style="${data2.data.discountPercent > 0 ? 'color: grey; text-decoration: line-through;' : ''}">${data2.data.price}€</span>
+                        ${data2.data.discountPercent > 0 ? `<span style="font-weight: bold; color: red;">${((1 - (data2.data.discountPercent / 100)) * data2.data.price).toFixed(2)}€</span>` : ''}
+                        </p>
+                        ${data2.data.discountPercent > 0 ? `<p style="font-weight: bold; text-decoration: underline; color: red; font-style: italic;">Discount Percent: ${data2.data.discountPercent}</p>` : ''}
+                        <button class="button-57" onclick="addItemToBasket('${data2.data.code}', '${data2.data.nameLarge}', '${data2.data.price}', 'https://cdn.babycenter.si/products/705x705${data2.data.images.imageData[0].imagUrl}', ${data2.data.discountPercent}, '${data2.data.discountedPrice}')">
+                            <span class="text">Add To Basket</span><span>Click To Confirm</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <!-- Second Row -->
+            <div class="row" style="margin-top: 1vh; justify-content: center; margin-top:5vh; margin-bottom:5vh;">
+                ${window.innerWidth >= 768 ? // Check screen width
+                    data2.data.images.imageData.slice(1).map(image => `
+                        <div class="col-md-1"> 
+                            <img src="https://cdn.babycenter.si/products/705x705${image.imagUrl}" alt="${data2.data.nameLarge}" style="width: 100%; max-width: 100%;">
+                        </div>
+                    `).join('')
+                    : // For smaller screens, keep individual rows
+                    data2.data.images.imageData.slice(1).map(image => `
+                        <div class="row" style="margin-top: 1vh;">
+                            <div class="col-12">
+                                <img src="https://cdn.babycenter.si/products/705x705${image.imagUrl}" alt="${data2.data.nameLarge}" style="width: 100%; max-width: 100%;">
                             </div>
-                            <div class="col-md-6">
-                                <h2>${data2.data.nameLarge}</h2>
-                                <p>Price: ${data2.data.price}</p>
-                                <p>Discount Percent: ${data2.data.discountPercent}</p>
-                                <button class="button-57" onclick="addItemToBasket('${data2.data.code}', '${data2.data.nameLarge}', '${data2.data.price}', 'https://cdn.babycenter.si/products/705x705${data2.data.images.imageData[0].imagUrl}', ${data2.data.discountPercent}, '${data2.data.discountedPrice}')">
-                                    <span class="text">Add To Basket</span><span>Click To Confirm</span>
-                                </button>
-                            </div>
                         </div>
-                        <div class="row" style="margin-top: 1vh;"> <!-- Added margin-top -->
-                            ${data2.data.images.imageData.slice(1).map(image => `
-                                <div style="width: 10vw;">
-                                    <img src="https://cdn.babycenter.si/products/705x705${image.imagUrl}" alt="${data2.data.nameLarge}" style="width: 100%;">
-                                </div>
-                            `).join('')}
-                        </div>
-                        <div class="row">
-                            <div>${removeHtmlTags(data2.data.descriptionLarge)}</div>
-                        </div>
-                    </div>`;
-            })
-            .catch(error => console.error('Error fetching item data:', error));
-    }
-    
+                    `).join('')
+                }
+            </div>
+            <!-- Third Row -->
+            <div class="row" style="margin-top: 1vh; margin-bottom: 5vh;">
+                <div>${removeHtmlTags(data2.data.descriptionLarge)}</div>
+            </div>`;
+            
+            
+
+            
+            
+
+
+            
+            
+        
+        })
+        .catch(error => console.error('Error fetching item data:', error));
+}
+
+// Function to remove HTML tags from a string
+function removeHtmlTags(htmlString) {
+    const doc = new DOMParser().parseFromString(htmlString, 'text/html');
+    return doc.body.textContent || "";
+}
