@@ -121,11 +121,11 @@ fetch('/get-items')
                             <p class="name" style="cursor: pointer;" onclick="redirectToItem('${item.code}')">${item.nameLarge}</p>
                             ${discountPercent > 0 ? `
                             <div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-                                <p class="price" style="text-decoration: line-through; color: gray; cursor: pointer; margin: 0;">${price.toFixed(2)}€</p>
+                                <p class="price" style="text-decoration: line-through; color: gray; cursor: pointer; margin: 0;" onclick="redirectToItem('${item.code}')">${price.toFixed(2)}€</p>
                                 <p class="discounted-price" style="cursor: pointer; color: red; margin: 0; font-weight: bold;" onclick="redirectToItem('${item.code}')">${discountedPrice.toFixed(2)}€</p>
                             </div>
                             ` : `
-                            <p class="price" style="cursor: pointer;">${price.toFixed(2)}€</p>
+                            <p class="price" style="cursor: pointer;" onclick="redirectToItem('${item.code}')">${price.toFixed(2)}€</p>
                             `}
                         </div>
                     </div>
