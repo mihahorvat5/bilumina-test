@@ -33,7 +33,8 @@ function addItemToBasket(itemCode, nameLarge, price, imageUrl, discountPercent, 
             <div class="col-6 text-center">
                 <img src="${imageUrl}" alt="${nameLarge}" style="width: 90%; display: block; margin: 0 auto;">
             </div>
-            <div class="col-6">
+            
+            <div class="col-6" style="display: flex; justify-content: center; align-items: center; text-align:center;">
                 <div class="item-info">
                     <p>${nameLarge}</p>
                     <p>${discountPercent > 0 ? `<span class="price" style="text-decoration: line-through; color: gray; font-weight: bold;">${price}€</span><span class="discounted-price" style="font-weight: bold; color: red;"> ${discountedPrice}€</span>` : `<span class="price" style="font-weight: bold;">${price}€</span>`}</p>
